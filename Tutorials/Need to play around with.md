@@ -21,3 +21,9 @@ https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and
 https://gym.openai.com/
 
 https://github.com/openai/universe
+
+***
+
+Cool resource:
+https://www.protopie.io/
+
